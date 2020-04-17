@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("This is GIT Test Project");
         System.out.println("Things Changed 2");
+        System.out.println("3rd change");
     }
 }
